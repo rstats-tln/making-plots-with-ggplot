@@ -24,7 +24,7 @@ class: inverse, center, middle
 
 ---
 
-## Why data visualization matters
+## Why data visualisation matters
 
 - Visualization of your analysis results or data must be effective and present your results and data honestly
 
@@ -95,4 +95,17 @@ class: middle, inverse
 
 > "never trust summary statistics alone; always visualize your data", since, while the data exhibits normal seeming statistics, plotting the data reveals a picture of a dinosaur. [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
 
+---
+
+## Summary
+
+- Data analysis is not a linear process. 
+- After you have imported your data into analysis environment and cleaned it up, you start with a iterative process of data transformation, **visualisation**, and modeling
+
+```{r, echo=FALSE}
+knitr::include_graphics("http://r4ds.had.co.nz/diagrams/data-science-explore.png")
+```
+
+
+.footer[Image: http://r4ds.had.co.nz/explore-intro.html]
 
