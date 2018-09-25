@@ -26,9 +26,9 @@ class: inverse, center, middle
 
 ## Why data visualisation matters
 
-- Visualization of your analysis results or data must be effective and present your results and data honestly
-
 - Numerical summaries, like arithmetic mean or correlation coefficient, can be deceiving when shape of the data is not known or shown
+
+- Visualisation of your analysis results or data must be effective and present your results and data honestly
 
 ???
 
@@ -36,9 +36,9 @@ class: inverse, center, middle
 
 ---
 
-## Start every analysis by visualization
+## Start every analysis by visualisation
 
-- Data visualization is natural starting point of every data analysis workflow
+- Data visualisation is natural starting point of every data analysis workflow
 
 - Let's have look at the **datasaurus** dataset
     - here we have x and y variables for 13 variables (away, bullseye, etc.) 
